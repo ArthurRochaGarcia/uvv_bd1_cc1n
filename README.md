@@ -8,4 +8,5 @@
 projeto lógico (mantendo até mesmo erros, se for o caso), no padrão)
 do PostgreSQL.
  - cc1n_202307571_postgresql.pdf (Aqui você poderá visualizar o esquema do projeto lógico replicado)
- - cc1n_202307571_postgresql.sql (Aqui você poderá ver o projeto lógico replicado em ação na linguagem sql)
+ - cc1n_202307571_postgresql.sql (Aqui você poderá ver o projeto lógico replicado em ação na linguagem sql faita através do postgres)
+ - cc1n_202307571_mariadb.sql (Aqui você poderá ver o projeto lógico replicado em ação na linguagem sql feita atrvés do mariadb)
